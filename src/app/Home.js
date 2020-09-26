@@ -26,7 +26,7 @@ const Home = () => {
           <a href="/timer">
             <img src={timerIcon} alt="timer" className="timer-icon" />
           </a>
-          <a href="/timer">计时器</a>
+          <a href="/timer">倒计时器</a>
         </div>
       </div>
     </div>
